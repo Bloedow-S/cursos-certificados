@@ -5,8 +5,7 @@ Este repositório contém minhas certificações profissionais, organizadas por 
 
 - Java
 - JavaScript
-- HTML5
-- CSS5
+- HTML5 e CSS5
 
 Todas as certificações, sejam de cursos ou bootcamps, são armazenadas neste local!  
 
